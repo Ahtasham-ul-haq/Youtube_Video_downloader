@@ -16,7 +16,7 @@ Getting started by opening the terminal window:
 
 Install the following packages:
 ```bash
-1.   pip install pythube
+1.   pip install pytube
 2.   pip install tkinter
 3.   pip install requests
 ```
