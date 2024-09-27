@@ -1,7 +1,7 @@
 
 # Youtube Video Downloader
 
-A python automated program which downloads a Youtube video.
+A python automated program that downloads a Youtube video.
 
 
 ## Installation
